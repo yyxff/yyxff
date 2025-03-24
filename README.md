@@ -6,6 +6,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yyxff/yyxff/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=yyxff&label=Views"/>
+</div>
+
 <!--
 **yyxff/yyxff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
